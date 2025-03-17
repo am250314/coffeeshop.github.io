@@ -26,7 +26,7 @@ img {
 .header {
     width: 100%;
     min-height: 100vh;
-    background-image: url("https://github.com/am250314/coffeeshop.github.io/blob/main/mainvisual.jpg");
+    background-image: url("https://raw.githubusercontent.com/am250314/coffeeshop.github.io/refs/heads/main/mainvisual.jpg");
     background-size: cover;
     background-position: center top;
     background-repeat: no-repeat;
