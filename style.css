@@ -70,7 +70,7 @@ img {
 }
 
 .menu-img {
-    background-image: url(../img/menu.jpg);
+    background-image: url("https://raw.githubusercontent.com/am250314/coffeeshop.github.io/refs/heads/main/menu.jpg");
     position: relative;
 }
 
@@ -133,7 +133,7 @@ dd {
 }
 
 .about-img {
-    background-image: url(../img/about.jpg);
+    background-image: url("https://raw.githubusercontent.com/am250314/coffeeshop.github.io/refs/heads/main/about.jpg");
 }
 
 .about-ul {
@@ -218,7 +218,7 @@ dd {
 }
 
 .location-img {
-    background-image: url(../img/location.jpg);
+    background-image: url("https://raw.githubusercontent.com/am250314/coffeeshop.github.io/refs/heads/main/location.jpg");
 }
 
 .item-map {
